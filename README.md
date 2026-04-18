@@ -104,5 +104,4 @@ Feature importance revealed key churn factors
 git clone https://github.com/anukta-acharya/ML-Internship-Project.git
 cd ML-Internship-Project
 ```
-Open notebooks in Jupyter / Colab
-Run cells sequentially
+Open notebooks in Jupyter / Colab and run cells sequentially
