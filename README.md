@@ -24,7 +24,7 @@ Compared multiple models for performance
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 ML-Internship-Project/
 │
 ├── Level1_HousePrice_Regression.ipynb
@@ -98,3 +98,9 @@ Feature importance revealed key churn factors
 - matplotlib & seaborn  
 
 ---
+## How to Run  
+
+```bash
+git clone https://github.com/anukta-acharya/ML-Internship-Project.git
+  -Open notebooks in Jupyter / Colab
+  -Run cells sequentially
