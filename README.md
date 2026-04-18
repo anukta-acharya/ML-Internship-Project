@@ -98,9 +98,11 @@ Feature importance revealed key churn factors
 - matplotlib & seaborn  
 
 ---
-## How to Run  
+## ▶️ How to Run  
 
 ```bash
 git clone https://github.com/anukta-acharya/ML-Internship-Project.git
-  -Open notebooks in Jupyter / Colab
-  -Run cells sequentially
+cd ML-Internship-Project
+```
+Open notebooks in Jupyter / Colab
+Run cells sequentially
