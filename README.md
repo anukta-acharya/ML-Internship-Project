@@ -81,13 +81,19 @@ ML-Internship-Project/
 
 ---
 
-## Results & Insights  
-
-**Random Forest achieved the best performance**  
+## Results & Insights 
+Random Forest achieved the best performance  
 Logistic Regression served as a strong baseline  
-SVM captured complex relationships effectively  
-Feature importance revealed key churn factors  
+SVM handled complex patterns effectively  
 
+### Model Performance Comparison
+
+| Model               | Accuracy |
+|--------------------|----------|
+| Logistic Regression| 0.xx     |
+| Decision Tree      | 0.xx     |
+| Random Forest      | 0.xx     |
+| SVM                | 0.xx     |
 ---
 
 ##Tech Stack  
