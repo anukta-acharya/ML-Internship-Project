@@ -81,7 +81,7 @@ ML-Internship-Project/
 
 ---
 
-##Results & Insights  
+## Results & Insights  
 
 Decision Tree achieved the highest accuracy  
 Random Forest performed strongly with balanced predictions  
@@ -101,7 +101,7 @@ SVM (RBF) improved performance significantly
 
 *Note: Accuracy alone is not sufficient due to class imbalance, so confusion matrix and recall were also analyzed.*
 
-##Tech Stack  
+## Tech Stack  
 
 - Python  
 - pandas  
@@ -117,6 +117,6 @@ cd ML-Internship-Project
 ```
 Open notebooks in Jupyter / Colab and run cells sequentially
 
-##Conclusion
+### Conclusion
 
 This project demonstrates a complete machine learning pipeline from basic regression to advanced classification models, focusing on performance, interpretability, and real-world insights.
