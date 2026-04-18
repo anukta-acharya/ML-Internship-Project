@@ -81,20 +81,25 @@ ML-Internship-Project/
 
 ---
 
-## Results & Insights 
-Random Forest achieved the best performance  
-Logistic Regression served as a strong baseline  
-SVM handled complex patterns effectively  
+##Results & Insights  
 
-### Model Performance Comparison
+Decision Tree achieved the highest accuracy  
+Random Forest performed strongly with balanced predictions  
+Logistic Regression provided a solid baseline  
+SVM (Linear) struggled with class imbalance  
+SVM (RBF) improved performance significantly  
 
-| Model               | Accuracy |
-|--------------------|----------|
-| Logistic Regression| 0.xx     |
-| Decision Tree      | 0.xx     |
-| Random Forest      | 0.xx     |
-| SVM                | 0.xx     |
----
+### Model Performance Comparison  
+
+| Model                | Accuracy |
+|---------------------|----------|
+| Logistic Regression | 0.853    |
+| Decision Tree       | 0.954    |
+| Random Forest       | 0.945    |
+| SVM (Linear)        | 0.858    |
+| SVM (RBF)           | 0.919    |
+
+*Note: Accuracy alone is not sufficient due to class imbalance, so confusion matrix and recall were also analyzed.*
 
 ##Tech Stack  
 
@@ -111,3 +116,7 @@ git clone https://github.com/anukta-acharya/ML-Internship-Project.git
 cd ML-Internship-Project
 ```
 Open notebooks in Jupyter / Colab and run cells sequentially
+
+##Conclusion
+
+This project demonstrates a complete machine learning pipeline from basic regression to advanced classification models, focusing on performance, interpretability, and real-world insights.
